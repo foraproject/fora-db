@@ -1,19 +1,53 @@
 {
-    "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
-    "name": "fora-db",
-    "version": "0.9.30",
-    "description": "Object Database Mapper built as part of the Fora Project",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jeswin/fora-models.git"
-    },
-    "main": "lib/fora-db",
-    "dependencies": {
-        "fora-node-thunkify": "*",
-        "fora-validator": "*"
-    },
-    "devDependencies": {},
-    "engines": { "node": ">= 0.11.9" },
-    "keywords": ["orm", "object database mapper"],
-    "license" : "GPL-3.0+"
+  "author": {
+    "name": "Jeswin Kumar",
+    "email": "jeswinpk@agilehead.com"
+  },
+  "name": "fora-db",
+  "version": "0.9.31",
+  "description": "Object Database Mapper built as part of the Fora Project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeswin/fora-models.git"
+  },
+  "main": "lib/fora-db",
+  "dependencies": {
+    "fora-node-thunkify": "*",
+    "fora-validator": "*"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.11.9"
+  },
+  "keywords": [
+    "orm",
+    "object database mapper"
+  ],
+  "license": "GPL-3.0+",
+  "gitHead": "568035babf3ca0e39fbbada732120fbbf436882c",
+  "bugs": {
+    "url": "https://github.com/jeswin/fora-models/issues"
+  },
+  "homepage": "https://github.com/jeswin/fora-models",
+  "_id": "fora-db@0.9.30",
+  "scripts": {},
+  "_shasum": "c8c32903877662225d1003630cac98ee92321e75",
+  "_from": "fora-db@*",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "jeswin",
+    "email": "jeswinpk@agilehead.com"
+  },
+  "maintainers": [
+    {
+      "name": "jeswin",
+      "email": "jeswinpk@agilehead.com"
+    }
+  ],
+  "dist": {
+    "shasum": "c8c32903877662225d1003630cac98ee92321e75",
+    "tarball": "http://registry.npmjs.org/fora-db/-/fora-db-0.9.30.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/fora-db/-/fora-db-0.9.30.tgz"
 }
